@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ANDREA GUADALUPE\\Documents\\Proyectos\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\ANDREA GUADALUPE\\Documents\\Proyectos\\.NET\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\ANDREA GUADALUPE\\Documents\\Proyectos\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\Users\\ANDREA GUADALUPE\\Documents\\Proyectos\\.NET\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\ANDREA GUADALUPE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ANDREA GUADALUPE\\Documents\\Proyectos\\Calculadora\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\ANDREA GUADALUPE\\Documents\\Proyectos\\.NET\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ANDREA GUADALUPE\\AppData\\Roaming\\NuGet\\NuGet.Config"
