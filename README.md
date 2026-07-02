@@ -1,4 +1,3 @@
-````markdown
 # 🧮 Calculadora en C#
 
 ![.NET](https://img.shields.io/badge/.NET-9.0-purple)
