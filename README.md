@@ -3,7 +3,7 @@
 ![.NET](https://img.shields.io/badge/.NET-9.0-purple)
 ![C#](https://img.shields.io/badge/C%23-Language-blue)
 ![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
-![Licencia](https://img.shields.io/badge/Licencia-MIT-green)
+![Licencia](https://img.shields.io/badge/Licencia-PCA-red)
 
 Una aplicación de consola desarrollada en **C#** y **.NET** que permite realizar operaciones matemáticas básicas. Este proyecto forma parte de mi ruta de aprendizaje en .NET y está enfocado en comprender los fundamentos del lenguaje y la estructura de una aplicación de consola.
 
